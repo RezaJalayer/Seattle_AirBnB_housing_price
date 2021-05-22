@@ -7,5 +7,7 @@
 #### Summary of the results:
 > Found out that the high season is June, July and August<br> 
 > Observed the average neighbourhoods price to spot pricy neighborhoods<br> 
-> Linear regression models used to predict the housing price with an R-squared of 58%.
+> Linear regression models used to predict the housing price with an R-squared of 58%.<br>
+> link to my blogpost: https://reza-jalayer.medium.com/airbnb-housing-in-seattle-basic-price-study-d0f768539f75
 #### files: _Airb&b_seattle_housing_ notebook (python3) contains the code and the results
+#### acknowledgement: Kaggle Open Data
